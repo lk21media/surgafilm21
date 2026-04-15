@@ -14,8 +14,10 @@ Nikmati pengalaman menonton yang lebih stabil dengan fitur *Always on Top* dan *
 
 | Platform | Version | Download Link |
 | :--- | :--- | :--- |
-| **Android** | v1.6 | [Download .APK](https://link-download-anda.com/android) |
-| **Windows Desktop** | v1.0.0 | [Download .EXE](https://link-download-anda.com/windows) |
+| **Android** | v1.6 | [Download .APK](https://github.com/lk21media/surgafilm21/releases/download/v1.6.0/surgafilm21_v1.6.apk) |
+| **Windows Desktop** | v1.0.0 | [Download .EXE](https://github.com/lk21media/surgafilm21/releases/download/v1.6.0/Surgafilm21_Desktop_1.0.0_x64-setup.exe) |
+
+> **Note:** Gunakan GitHub Release untuk memastikan Anda mendapatkan file instalasi yang aman dan resmi.
 
 ---
 
